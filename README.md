@@ -15,4 +15,4 @@ npm -i bootstrap@latest react-router-dom axios
 
 in server.js
 put your own root password
-//make sure server running first
+//make sure your server running first
